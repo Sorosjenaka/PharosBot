@@ -1,13 +1,19 @@
 # PharosBot
 Please support Creator : https://t.me/winsnip 
+
 Group Chat: https://t.me/winsnip_chat
 
+My X : https://x.com/0xsoros
+
 🔥 NEW TESTNET: PHAROS NETWORK 
-💰 Reward: CONFIRMED 
+
+💰 Reward: CONFIRMED
+
 🚰 Faucet : https://testnet.pharosnetwork.xyz/
 
 🤖 PHAROS BOT AVAILABLE
 Features:
+
 ✅ AUTO SWAP (Wrap/Unwrap ETH)
 ✅ AUTO SEND ETH (Random Addresses)
 ✅ DAILY CHECK-IN (Automated)
@@ -54,3 +60,5 @@ ETH amount per auto-send: 0.00001
 Random target addresses: 3
 Schedule: 23 & 59
 ```
+Your Screen will Showup like this
+![alt text](https://github.com/Sorosjenaka/PharosBot/blob/main/Screenshot%20(178).png?raw=true)
