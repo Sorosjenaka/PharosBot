@@ -1,0 +1,2 @@
+# PharosBot
+PharosNetwork Bot
