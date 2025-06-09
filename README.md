@@ -1,5 +1,17 @@
 # PharosBot
-PharosNetwork Bot
+Please support Creator : https://t.me/winsnip 
+Group Chat: https://t.me/winsnip_chat
+
+🔥 NEW TESTNET: PHAROS NETWORK 
+💰 Reward: CONFIRMED 
+🚰 Faucet : https://testnet.pharosnetwork.xyz/
+
+🤖 PHAROS BOT AVAILABLE
+Features:
+✅ AUTO SWAP (Wrap/Unwrap ETH)
+✅ AUTO SEND ETH (Random Addresses)
+✅ DAILY CHECK-IN (Automated)
+🔜 AUTO ADD LIQUIDITY
 
 ## Installation
 # 1. Clone the Repository
