@@ -48,6 +48,12 @@ screen -R pharos
 ```
 npm run start
 ```
+# Update 
+``` bash
+git pull
+#Run again with Start Bot
+```
+
 ## Auto Mode Configuration Example
 ```
 SWAP mode: auto
