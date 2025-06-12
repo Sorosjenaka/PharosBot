@@ -68,3 +68,13 @@ Schedule: 23 & 59
 ```
 Your Screen will Showup like this
 ![alt text](https://github.com/Sorosjenaka/PharosBot/blob/main/Screenshot%20(178).png?raw=true)
+
+## Cleanup & Reinstallation
+```
+sudo apt remove --purge nodejs npm libnode-dev -y
+sudo apt autoremove -y
+sudo rm -rf /usr/include/node /usr/lib/node_modules ~/.npm ~/.nvm
+curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash -
+sudo apt install -y nodejs
+node -v && npm -v
+```
